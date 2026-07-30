@@ -1,0 +1,48 @@
+ git install
+  666  git init
+  667  git --version
+  668  clear
+  669  cd ..
+  670  git config --global user.name "vishal.P"
+  671  git config --global user.email vishalkhose315@email.com
+  672  git config --list
+  673  git init
+  674  ls -l
+  675  clear
+  676  mkdir GIT
+  677  LS
+  678  ls
+  679  cd /git
+  680  cd git/
+  681  cd ~/git
+  682  c ~/GIT
+  683  cd ~/GIT
+  684  LS
+  685  ls
+  686  clear
+  687  touch testing.git
+  688  echo hello dosto,this is git > testing.git
+  689  ls
+  690  cat testing.git
+  691  ls -l
+  692  git init
+  693  ls -a
+  694  man git
+  695  git status
+  696  git add <testing.git>
+  697  git add testing.git
+  698  git status
+  699  clear
+  700  git status
+  701  git rm --cached
+  702  git status
+  703  git rm --cached testing.git
+  704  git status
+  705  git add
+  706  git add testing.git
+  707  git status
+  708  clear
+  709  git status
+  710  git commit -m "added testing file"
+  711  git status
+  712  rm testing.git
