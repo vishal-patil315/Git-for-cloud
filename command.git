@@ -1,48 +1,107 @@
- git install
-  666  git init
-  667  git --version
-  668  clear
-  669  cd ..
-  670  git config --global user.name "vishal.P"
-  671  git config --global user.email vishalkhose315@email.com
-  672  git config --list
-  673  git init
-  674  ls -l
-  675  clear
-  676  mkdir GIT
-  677  LS
-  678  ls
-  679  cd /git
-  680  cd git/
-  681  cd ~/git
-  682  c ~/GIT
-  683  cd ~/GIT
-  684  LS
-  685  ls
-  686  clear
-  687  touch testing.git
-  688  echo hello dosto,this is git > testing.git
-  689  ls
-  690  cat testing.git
-  691  ls -l
-  692  git init
-  693  ls -a
-  694  man git
-  695  git status
-  696  git add <testing.git>
-  697  git add testing.git
-  698  git status
-  699  clear
-  700  git status
-  701  git rm --cached
-  702  git status
-  703  git rm --cached testing.git
-  704  git status
-  705  git add
-  706  git add testing.git
-  707  git status
-  708  clear
-  709  git status
-  710  git commit -m "added testing file"
-  711  git status
-  712  rm testing.git
+git install
+    git init
+    git --version
+    clear
+    cd ..
+    git config --global user.name "vishal.P"
+    git config --global user.email vishalkhose315@email.com
+    git config --list
+    git init
+    ls -l
+    clear
+    mkdir GIT
+    LS
+    ls
+    cd /git
+    cd git/
+    cd ~/git
+    c ~/GIT
+    cd ~/GIT
+    LS
+    ls
+    clear
+    touch testing.git
+    echo hello dosto,this is git > testing.git
+    ls
+    cat testing.git
+    ls -l
+    git init
+    ls -a
+    man git
+    git status
+    git add <testing.git>
+    git add testing.git
+    git status
+    clear
+    git status
+    git rm --cached
+    git status
+    git rm --cached testing.git
+    git status
+    git add
+    git add testing.git
+    git status
+    clear
+    git status
+    git commit -m "added testing file"
+    git status
+    rm testing.git
+
+
+ git status
+    git commit -m "added testing file"
+    git status
+    rm testing.git
+    ls
+    clear
+    git status
+    git restore testing.git
+    ls
+    clear
+    touch command.git
+    nano command.git
+    ls
+    cat command.git
+    clear
+    cat command.git
+    clear
+    git add command.git
+    dtatus
+    git status
+    git commit -m command.git
+    git status
+    ls
+    clear
+    git push
+    git remote add origin https://g
+    git remote -v
+    git status
+    git push origin master
+    clear
+    git remote -v
+    git remote set-url origin http://
+    git remote -v
+    git push origin master
+    git remote -v
+    git push origin master
+    git remote remove origin
+    git remote add origin http://ghp
+    git push -u origin master
+    git remote remove origin
+    clear
+    git remote -v
+    git remote add origin https://
+    git remote -v
+    git push origin master
+    git remote set-url origin
+    git remote set-url origin http:// 
+    git remote -v
+    git push origin master  758  http://
+    git remote add origin http://
+    git push -u origin master
+    clear
+    git remove origin
+    git remote remove origin
+    git remote -v
+    git remote add origin https://gt
+    git remote -v
